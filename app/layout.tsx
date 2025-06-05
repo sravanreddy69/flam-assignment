@@ -10,8 +10,6 @@ const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
   title: "HR Dashboard",
-  description: "Advanced HR Dashboard with Next.js App Router",
-    generator: 'v0.dev'
 }
 
 export default function RootLayout({
